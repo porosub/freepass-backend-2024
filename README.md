@@ -38,7 +38,7 @@ Ketentuan : Kemudian pastikan semua service bisa berjalan dan diakses dari luar 
 
 6. Apabila web service terhubung dengan jaringan, manfaatkan fitur Firewall/SELinux sebaik-baiknya
 
-7. Untuk service berupa database, minimal ada 1 user (non root) dengan 1 database berisi 1 tabel berisi >= 4 query yang merupakan operasi CRUD
+7. Untuk service yang mempergunakan database, minimal ada 1 user (non root) dengan 1 database berisi 1 tabel berisi >= 4 query yang merupakan operasi CRUD
 
 8. Halaman website & database SQL dibuat di luar container/virtual machine (manfaatkan fitur dump, backup, restore, move, copy, volumes, dsb)
 
