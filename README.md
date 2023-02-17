@@ -46,5 +46,6 @@ Ketentuan : Kemudian pastikan semua service bisa berjalan dan diakses dari luar 
 
 10. Upload source code dan write up ke repositori GitHub atau alternatif lainnya.
 
-11. Kumpulkan link github ke form berikut https://docs.google.com/forms
+11. Kumpulkan link github ke form berikut https://docs.google.com/forms/d/e/1FAIpQLSehThONCfaAFO8vmhsPN0zjf5-Ux2sZo8w4G1icW0IK2Mzh0A/viewform
+
 
